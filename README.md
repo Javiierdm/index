@@ -1,4 +1,4 @@
-# index/*!
+/*!
 * Based on Bootstrap v4.0.0 (https://getbootstrap.com) 
 */
 @import url("https://fonts.googleapis.com/css?family=Montserrat:200,400,700");
